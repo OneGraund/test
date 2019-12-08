@@ -76,3 +76,5 @@ asus = Notebook(processor = Processor(cores_amount=2, frequency=4.5, cash_size=5
     display = Display(diagonal=15.6, matrix_type="TS", density="1280x720"),
     keyboard = Keyboard(key_travel=0.4, keyboard_type="membran"),
     info = Info(firm="ASUS", seller="Rozetka", serial_number="C12353MN", description="Best notebook for 300 hohlo-baksiv"))
+
+
